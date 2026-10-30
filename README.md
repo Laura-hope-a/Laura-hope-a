@@ -1,12 +1,12 @@
 ## Olá! Eu sou a Laura Hope👋
 Estudante de Desenvolvimento Front-end, dedicada a construir interfaces web e aprimorar minhas habilidades por meio de projetos práticos.
 
-## Atualmente estudando
+## 📚 Atualmente estudando
 - HTML5
 - CSS3
 - JavaScript
 
-## Objetivo
+## 🎯 Meu objetivo
 Desenvolver aplicações web, fortalecer minha lógica de programação e conquistar minha primeira oportunidade na área de Front-end.
 <!--
 **Laura-hope-a/Laura-hope-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
