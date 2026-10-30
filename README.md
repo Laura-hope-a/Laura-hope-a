@@ -8,6 +8,28 @@ Estudante de Desenvolvimento Front-end, dedicada a construir interfaces web e ap
 
 ## 🎯 Meu objetivo
 Desenvolver aplicações web, fortalecer minha lógica de programação e conquistar minha primeira oportunidade na área de Front-end.
+
+
+
+## 📂 Estudos e exercícios
+Projetos desenvolvidos durante minha jornada de aprendizado em HTML e CSS no cursos de desenvolvimento da RocketSeat.
+
+-[Site de Receitas](https://github.com/Laura-hope-a/Site-Receitas-Estudos)
+-[Site de tusrismo](https://github.com/Laura-hope-a/Site-Turismo-Estudo)
+-[Travelgram](https://github.com/Laura-hope-a/Site-Travelgram-Estudos)
+-[Technews](https://github.com/Laura-hope-a/technews)
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **Laura-hope-a/Laura-hope-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
